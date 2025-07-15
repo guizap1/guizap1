@@ -31,22 +31,30 @@ Sou um desenvolvedor backend júnior em formação, com experiência como QA e p
 
 ## 🛠️ Stack Tecnológica
 
-### Linguagens & Backend
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+<div align="center">
 
-### Testes
-![Pytest](https://img.shields.io/badge/Pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=white)
-![Unittest](https://img.shields.io/badge/Unittest-blue?style=for-the-badge)
+### 🔙 Backend  
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
 
-### Ferramentas & Boas Práticas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-333333?style=for-the-badge&logo=agile&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-%2300C853?style=for-the-badge)
-![PEP8](https://img.shields.io/badge/PEP8-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+### 🎨 Frontend  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
----
+### 🗄️ Dados  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
+### ✅ Testes  
+<img src="https://img.shields.io/badge/Pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Unittest-blue?style=for-the-badge" />
+
+### 🛠️ Ferramentas & Boas Práticas  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile-333333?style=for-the-badge&logo=agile&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean%20Code-%2300C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PEP8-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+
+</div>
 ## 🚀 Projetos
 
 🔧 Em construção...
