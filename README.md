@@ -97,6 +97,7 @@ Sou um desenvolvedor backend júnior em formação, com experiência como QA e p
 ---
 
 ## 🎯 Competências
+<div align="center">
 **Metodologias**  
 Agile • Scrum • Clean Code • PEP8  
 
@@ -106,19 +107,17 @@ Resolução de problemas complexos • Trabalho em equipe • Comunicação téc
 **Idiomas**  
 🇧🇷 Português (Nativo)  
 🇺🇸 Inglês (Intermediário - B2)  
-
----
+</div>
 
 ## 📫 Vamos Conversar!
-
+<div align="center">
 Estou sempre aberto a novas oportunidades e desafios.  
 Se você procura um desenvolvedor comprometido com qualidade e resultados, **vamos conversar!**
 
 - 📧 **Email:** guilhermepellizzari2@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/guilhermepellizzari](https://www.linkedin.com/in/guilhermepellizzari/)  
 - 📍 **Localização:** Foz do Iguaçu, PR - Brasil
-
----
+</div>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" alt="footer waves" />
