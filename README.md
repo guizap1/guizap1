@@ -62,10 +62,3 @@ Sou um desenvolvedor backend júnior em formação, com experiência como QA e p
 > Em breve, adicionarei projetos com backend em Python, testes automatizados, automações com Docker e arquitetura modular.
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guizap1&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guizap1&layout=compact&theme=tokyonight"/>
-</p>
