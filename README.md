@@ -62,3 +62,49 @@ Sou um desenvolvedor backend júnior em formação, com experiência como QA e p
 > Em breve, adicionarei projetos com backend em Python, testes automatizados, automações com Docker e arquitetura modular.
 
 ---
+## 💼 Experiência Profissional
+
+### 🏢 TranspNet Sistemas | Analista de Qualidade  
+📅 Jan/2025 - Presente | Foz do Iguaçu, PR
+
+- 🧪 Execução de testes funcionais e de regressão em sistemas ERP desenvolvidos em Delphi  
+- 🌐 Validação de funcionalidades e identificação de bugs em aplicação web (React.js)  
+- 🐞 Documentação de erros e colaboração direta com a equipe de desenvolvimento  
+- 📋 Criação de cenários de testes com base nos requisitos de negócio  
+- 🔄 Acompanhamento de correções e validações em ambiente de homologação  
+- 🧠 Participação ativa em sprints e stand-ups com metodologias ágeis  
+
+---
+
+### 🏢 IntellTech Intelligent Technologies | Suporte Júnior  
+📅 Abr/2024 - Set/2024 | Foz do Iguaçu, PR
+
+- 💻 Apoio no desenvolvimento de landing pages com HTML, CSS e JavaScript  
+- 🛠️ Correção de bugs e pequenas melhorias em sistemas legados  
+- 🚀 Contato com o ciclo de desenvolvimento de software em ambiente ágil  
+
+---
+
+### 🏢 Mabu Hotéis & Resorts | Suporte Técnico  
+📅 Jan/2024 - Abr/2024 | Foz do Iguaçu, PR
+
+- 🧑‍💼 Suporte técnico a usuários e sistemas de gestão hoteleira  
+- 🖥️ Manutenção de computadores, impressoras e redes locais  
+- 🌐 Atendimento a incidentes de internet, e-mails, servidores e estações  
+- 📦 Organização do inventário de equipamentos de TI  
+- 🤝 Colaboração com times internos para garantir estabilidade da infraestrutura  
+
+---
+
+## 🎯 Competências
+
+**Metodologias**  
+Agile • Scrum • Clean Code • PEP8  
+
+**Soft Skills**  
+Resolução de problemas complexos • Trabalho em equipe • Comunicação técnica eficaz  
+
+**Idiomas**  
+🇧🇷 Português (Nativo)  
+🇺🇸 Inglês (Intermediário - B2)  
+
