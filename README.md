@@ -98,6 +98,7 @@ Sou um desenvolvedor backend júnior em formação, com experiência como QA e p
 
 ## 🎯 Competências
 <div align="center">
+  
 **Metodologias**  
 Agile • Scrum • Clean Code • PEP8  
 
