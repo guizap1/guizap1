@@ -79,9 +79,10 @@ Sou um desenvolvedor backend júnior em formação, com experiência como QA e p
 ### 🏢 IntellTech Intelligent Technologies | Suporte Júnior  
 📅 Abr/2024 - Set/2024 | Foz do Iguaçu, PR
 
-- 💻 Apoio no desenvolvimento de landing pages com HTML, CSS e JavaScript  
-- 🛠️ Correção de bugs e pequenas melhorias em sistemas legados  
-- 🚀 Contato com o ciclo de desenvolvimento de software em ambiente ágil  
+- 💻 Registro, categorização e acompanhamento de chamados utilizando ferramentas como DevOps e Jira.
+- 🛠️ Atendimento e suporte técnico a clientes, solucionando dúvidas e problemas relacionados ao sistema da empresa.
+- 🚀 Participação de reuniões de alinhamento e sprints com a equipe de desenvolvimento, seguindo metodologias ágeis.
+- 📋 Atualização de documentações técnicas, FAQs e tutoriais para clientes e equipe interna.
 
 ---
 
@@ -100,7 +101,7 @@ Sou um desenvolvedor backend júnior em formação, com experiência como QA e p
 <div align="center">
   
 **Metodologias**  
-Agile • Scrum • Clean Code • PEP8  
+Agile • Clean Code • PEP8 • SOLID
 
 **Soft Skills**  
 Resolução de problemas complexos • Trabalho em equipe • Comunicação técnica eficaz  
