@@ -18,7 +18,6 @@ Sou um desenvolvedor backend júnior em formação, com experiência como QA e p
 
 - 💻 Experiência com testes automatizados usando **Pytest** e **Unittest**
 - 🐍 Desenvolvimento de aplicações com **Python**
-- 🐳 Uso de **Docker** para ambientes isolados
 - 🧱 Noções de **arquitetura de microserviços**
 - 📐 Boas práticas como **PEP8**, **SOLID** e **Clean Code**
 - 👨‍💻 Git e versionamento para controle de código
