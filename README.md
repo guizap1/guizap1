@@ -16,8 +16,8 @@
 
 Sou um desenvolvedor backend júnior em formação, com experiência como QA e participação em projetos acadêmicos e pessoais. Tenho familiaridade com ambientes ágeis e foco em qualidade de código, automação e escalabilidade.
 
+- 🎯 Desenvolvimento de aplicações com **PHP, Laravel, Python e React**
 - 💻 Experiência com testes automatizados usando **Pytest** e **Unittest**
-- 🐍 Desenvolvimento de aplicações com **Python**
 - 🧱 Noções de **arquitetura de microserviços**
 - 📐 Boas práticas como **PEP8**, **SOLID** e **Clean Code**
 - 👨‍💻 Git e versionamento para controle de código
@@ -34,6 +34,7 @@ Sou um desenvolvedor backend júnior em formação, com experiência como QA e p
 
 ### 🔙 Backend  
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 ### 🎨 Frontend  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
